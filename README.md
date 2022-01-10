@@ -13,3 +13,10 @@ My game will help you better know your "friend" and answer the question - What d
  
 Made with ❤️ by Daniil Dolog.
 (The app uses copyright free music🎵)
+
+[![Watch on YouTube](http://img.youtube.com/vi/5EBop-H8d6A/0.jpg)](http://www.youtube.com/watch?v=5EBop-H8d6A "What is your phone? WWDC 2020 (Accepted)")
+
+
+https://youtu.be/5EBop-H8d6A
+
+
